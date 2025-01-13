@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "9337abc77964e2a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5221e718b8cd795f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77c147820ff854be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-01-07.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-07"
+            }
+          },
+          {
+            "id": "2e20cecb7e689632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-01-07.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-07"
+            }
+          },
+          {
+            "id": "2fee89fe7da779bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "支付业务/顺风车/营销补差.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "营销补差"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4981ea62676b1395",
+    "type": "split",
+    "children": [
+      {
+        "id": "32361c146e68f673",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d490de98986c9c14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3bd2d7318daf8950",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9f0b28d06f6ceb51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be6f36f854026b45",
+    "type": "split",
+    "children": [
+      {
+        "id": "95e0b4b12295f989",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edad41f83ebb6aa4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/2025-01-07.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-01-07"
+            }
+          },
+          {
+            "id": "4bddbaa4b2a8980c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/2025-01-07.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-01-07"
+            }
+          },
+          {
+            "id": "923a650a3265b67f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e48ee4dab9d5b746",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily/2025-01-07.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-01-07"
+            }
+          },
+          {
+            "id": "1bfad41be741090c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "e19bf567da62dbd4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "1bfad41be741090c",
+  "lastOpenFiles": [
+    "daily/2025-01-10.md",
+    "Excalidraw/退款重入v1.md",
+    "id_ras_boyceyuan.pub",
+    "id_ras_boyceyuan",
+    "业务逻辑/退款/退款重入逻辑.md",
+    "技术总结/架构/代码中融入结构思维.md",
+    "技术总结/故障复盘/微信支付分享.md",
+    "支付概念/米大师/基础信息.md",
+    "支付概念/米大师/分账.md",
+    "支付概念/分账/业务主动请求分账.md",
+    "支付业务/顺风车/营销补差.md",
+    "daily/2024-12-24.md",
+    "daily/2025-01-07.md",
+    "daily/2025-01-13.md",
+    "daily/2025-01-06.md",
+    "业务逻辑/退款",
+    "业务逻辑",
+    "支付概念/Untitled",
+    "images/Pasted image 20250110151350.png",
+    "技术总结/故障复盘",
+    "支付概念/微信支付/签名验证.md",
+    "支付概念/营销补差.md",
+    "支付概念/Untitled.canvas",
+    "daily/Untitled.md",
+    "images/Clipboard_Screenshot_1736125165.png",
+    "Excalidraw/Drawing 2025-01-06 15.47.46.excalidraw.md",
+    "技术总结/架构",
+    "技术总结/基础教程.md",
+    "Excalidraw/Drawing 2025-01-07 11.14.26.excalidraw.md",
+    "images/Pasted image 20250107105247.png",
+    "images/Pasted image 20250107105014.png",
+    "支付概念/微信支付",
+    "Untitled Kanban.md",
+    "支付概念/分账",
+    "支付业务/顺风车",
+    "Untitled.canvas",
+    "2023-08-01.md",
+    "Untitled.md",
+    "test/first note.md"
+  ]
+}
