@@ -39,12 +39,14 @@
             "id": "a4db93e6047ae180",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-14 17.05.02.excalidraw.md"
+                "file": "2025/January/2025-W03.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-14 17.05.02.excalidraw"
+              "icon": "lucide-file",
+              "title": "2025-W03"
             }
           },
           {
@@ -134,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-14 17.05.02.excalidraw.md",
+                "file": "2025/January/2025-W03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-01-14 17.05.02.excalidraw"
+              "title": "Backlinks for 2025-W03"
             }
           },
           {
@@ -153,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-14 17.05.02.excalidraw.md",
+                "file": "2025/January/2025-W03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-01-14 17.05.02.excalidraw"
+              "title": "Outgoing links from 2025-W03"
             }
           },
           {
@@ -180,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-14 17.05.02.excalidraw.md"
+                "file": "2025/January/2025-W03.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-01-14 17.05.02.excalidraw"
+              "title": "Outline of 2025-W03"
             }
           },
           {
@@ -229,8 +231,35 @@
   },
   "active": "a4db93e6047ae180",
   "lastOpenFiles": [
-    "业务逻辑/分账/分账流程.md",
+    "daily/2025-01-16.md",
+    "daily/2025-01-15.md",
+    "daily/2024-12-24.md",
+    "daily/2025-01-06.md",
+    "daily/2025-01-07.md",
+    "daily/2025-01-10.md",
+    "daily/2025-01-13.md",
+    "daily/2025-01-14.md",
+    "支付业务/顺风车/营销补差.md",
+    "技术总结/八股/go.md",
+    "技术总结/数据结构/堆.md",
+    "技术总结/八股",
+    "技术总结/编码规范/go编码规范.md",
+    "技术总结/数据结构",
+    "技术总结/编码规范",
+    "2025/January/2025-W01.md",
+    "2025/January",
+    "2025/January/2025-W02.md",
+    "2025/January/2025-W03.md",
+    "daily/Untitled.md",
+    "images/Clipboard_Screenshot_1736927731.png",
+    "2025/January/week",
+    "2025-01/daily",
+    "2025",
+    "images/Clipboard_Screenshot_1736927702.png",
     "Excalidraw/Drawing 2025-01-14 17.05.02.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-06 15.47.46.excalidraw.md",
+    "Excalidraw/退款重入v1.md",
+    "业务逻辑/分账/分账流程.md",
     "支付概念/营销补差/营销补差-微信.md",
     "支付概念/营销补差.md",
     "支付概念/营销补差/营销补差-米大师.md",
@@ -238,38 +267,13 @@
     "支付概念/微信支付/签名验证.md",
     "支付概念/分账/微信支付分账.md",
     "支付概念/分账/米大师分账.md",
-    "支付概念/米大师/分账.md",
-    "业务逻辑/分账/分账条件.md",
-    "业务逻辑/分账/业务主动请求分账.md",
-    "daily/2025-01-14.md",
     "业务逻辑/分账",
-    "daily/2025-01-13.md",
-    "技术总结/架构/代码中融入结构思维.md",
-    "技术总结/故障复盘/微信支付分享.md",
-    "技术总结/基础教程.md",
-    "daily/2025-01-10.md",
-    "daily/2025-01-07.md",
-    "Excalidraw/退款重入v1.md",
     "id_ras_boyceyuan.pub",
-    "id_ras_boyceyuan",
-    "业务逻辑/退款/退款重入逻辑.md",
-    "支付概念/米大师/基础信息.md",
-    "支付业务/顺风车/营销补差.md",
-    "daily/2024-12-24.md",
-    "daily/2025-01-06.md",
-    "业务逻辑/退款",
-    "业务逻辑",
     "images/Pasted image 20250110151350.png",
-    "技术总结/故障复盘",
     "支付概念/Untitled.canvas",
-    "daily/Untitled.md",
     "images/Clipboard_Screenshot_1736125165.png",
-    "Excalidraw/Drawing 2025-01-06 15.47.46.excalidraw.md",
-    "技术总结/架构",
     "images/Pasted image 20250107105247.png",
     "images/Pasted image 20250107105014.png",
-    "支付概念/微信支付",
-    "支付概念/分账",
     "Untitled.canvas"
   ]
 }
