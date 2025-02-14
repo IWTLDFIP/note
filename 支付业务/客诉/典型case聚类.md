@@ -1,0 +1,20 @@
+- 预付
+	- 退款失败 
+		- 804449652727301354
+			- userid不一致，详情见预付异常case
+			- https://doc.weixin.qq.com/sheet/e3_Ae8AKwZrAKoZFW4zsQnS8qQAc9J2h?scode=AJEAIQdfAAo046MstoAe8AKwZrAKo&tab=BB08J2
+	- 完结失败
+- 订单退款
+	- 796169702360138780
+		- 看日志是因为同一交易单多次退款间隔过短，微信那边直接报错了；而且重试的时候没有用同一个bizRefundId请求，导致又失败了
+		- ![[Clipboard_Screenshot_1739240607.png]]
+	- 804449652727301354
+		- 预付退款请求了普通退款接口![[企业微信截图_e94b0305-b530-494b-8964-2bc3a4958e70.png]]
+		-  
+- 支付分
+	- 取消支付分单
+		- biz_order_id:11_752977893209604107
+			- 创单与取消的时候反查的userid不一致
+			- getUserIdByPubOpenId end constTime:66.81 ms req:{"seqId":"5645b79364654e769d670946d3e55af4","timestamp":"1739086655864","appId":"wx8328f7e3b01ba169","reqSource":"CAR_OTHER","openId":"o9OaOswxvDMX3zGYzDVBouWxY1So"} rsp:{"message":"SUCCESS","userId":"939722393"}
+			- 598924979
+			- 
