@@ -10,11 +10,17 @@
 		- ![[Clipboard_Screenshot_1739240607.png]]
 	- 804449652727301354
 		- 预付退款请求了普通退款接口![[企业微信截图_e94b0305-b530-494b-8964-2bc3a4958e70.png]]
-		-  
+	-  9_791005210793385984
+		- 运力商订单号：d2_ZThmZWIyNzA5YTk0OTc5Yjg2ZTMzYzAxZGNjMzI3MWS4hoBicONNJVLEWRdWwwFI+qAoq8xHgUGDTxNqwilJRg==运力商反馈此单需退款386.66元，我侧操作退款直接失败，烦请协助退款386.66元![[Pasted image 20250214120602.png]]
+		- 业务订单更新有问题，导致退款被自己拦截，中台手动操作
 - 支付分
 	- 取消支付分单
 		- biz_order_id:11_752977893209604107
-			- 创单与取消的时候反查的userid不一致
+			- 创单与取消的时候反查的userid不一致，疑似用户注销
 			- getUserIdByPubOpenId end constTime:66.81 ms req:{"seqId":"5645b79364654e769d670946d3e55af4","timestamp":"1739086655864","appId":"wx8328f7e3b01ba169","reqSource":"CAR_OTHER","openId":"o9OaOswxvDMX3zGYzDVBouWxY1So"} rsp:{"message":"SUCCESS","userId":"939722393"}
 			- 598924979
-			- 
+- 预付退款
+- 取消支付分单
+- 失败的退款请求使用同一个bizRefundId重入
+- 分账结果不一致
+	- 重新查询分账结果并更新
