@@ -4,6 +4,9 @@
 			- userid不一致，详情见预付异常case
 			- https://doc.weixin.qq.com/sheet/e3_Ae8AKwZrAKoZFW4zsQnS8qQAc9J2h?scode=AJEAIQdfAAo046MstoAe8AKwZrAKo&tab=BB08J2
 	- 完结失败
+	- 运营平台无法区分预付单和普通订单
+		- 需要区分预付单
+		- 需要展示预付单状态 结算金额 未结退金额
 - 订单退款
 	- 796169702360138780
 		- 看日志是因为同一交易单多次退款间隔过短，微信那边直接报错了；而且重试的时候没有用同一个bizRefundId请求，导致又失败了
