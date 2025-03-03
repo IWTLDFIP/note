@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"3291050d0f391185","type":"text","text":"业务请求","x":-220,"y":-378,"width":179,"height":61},
+		{"id":"1bec6e75cf74fcc9","type":"text","text":"普通/支付分创单","x":87,"y":-378,"width":250,"height":60},
+		{"id":"6405f8ed20921b01","type":"text","text":"支付成功","x":440,"y":-377,"width":250,"height":60},
+		{"id":"86bde2e694ddd268","type":"text","text":"发起分账","x":799,"y":-237,"width":250,"height":60},
+		{"id":"f1a1fdfcc6bccbdb","type":"text","text":"发起退款","x":448,"y":-235,"width":250,"height":60},
+		{"id":"5d1653cb95518c94","type":"text","text":"将订单数据更新到表格中\n[表格链接](https://doc.weixin.qq.com/sheet/e3_Ae8AKwZrAKo2bdqFoL2THeHYNvXxW?scode=AJEAIQdfAAoq714dH9Ae8AKwZrAKo&tab=BB08J2)让军哥加下对应订单数据","x":800,"y":-398,"width":249,"height":103}
+	],
+	"edges":[
+		{"id":"1e197c1db6e35276","fromNode":"3291050d0f391185","fromSide":"right","toNode":"1bec6e75cf74fcc9","toSide":"left"},
+		{"id":"3713807a109b1773","fromNode":"1bec6e75cf74fcc9","fromSide":"right","toNode":"6405f8ed20921b01","toSide":"left"},
+		{"id":"35074759a55ddb20","fromNode":"6405f8ed20921b01","fromSide":"right","toNode":"5d1653cb95518c94","toSide":"left"},
+		{"id":"b96306432d2a210d","fromNode":"5d1653cb95518c94","fromSide":"bottom","toNode":"86bde2e694ddd268","toSide":"top"},
+		{"id":"4361ebbc73d42d3e","fromNode":"86bde2e694ddd268","fromSide":"left","toNode":"f1a1fdfcc6bccbdb","toSide":"right"}
+	]
+}
